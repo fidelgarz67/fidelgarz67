@@ -2,7 +2,7 @@
 
 **`Software Engineer | Data Analyst`**
 
-Hi there! I’m a software engineer currently pursuing my Master’s in Data Science, with a passion for using technology to make a real-world impact—specifically in the fight against human trafficking. This GitHub is where I share all my personal projects, experiments, and anything else I’m building or learning in the world of code. Feel free to explore, connect, or collaborate!
+Hi there! I’m a software engineer at a local tech startup in Las Cruces, NM and have recently finished my Master’s in Data Science, with a passion for using technology to make a real-world impact—specifically in the fight against human trafficking. This GitHub is where I share all my personal projects, experiments, and anything else I’m building or learning in the world of code. Feel free to explore, connect, or collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fidelgarz/)
 
